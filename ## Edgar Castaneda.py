@@ -1,2 +1,0 @@
-## Edgar Castaneda
-## Northeastern University
