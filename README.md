@@ -7,6 +7,4 @@ Here is some info about me! ⬇️
 - Northeastern Univeristy
 - Major: Computer Science
 
-I'm currently working on a 
-Website for my Father!
 
