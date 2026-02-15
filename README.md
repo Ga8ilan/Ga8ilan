@@ -37,7 +37,7 @@ Here is some info about me! ⬇️
 
 ## Current Ideas:
 
-  #### - Possibly build a story game (pixel platdformer) with co-programmer Lynette.
+  #### - Possibly build a story game (pixel platformer) with co-programmer Lynette.
 
 ## My work experiences:
 
