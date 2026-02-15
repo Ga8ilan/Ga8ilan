@@ -99,7 +99,7 @@ Here is some info about me! ⬇️
 
   - Current Job is a TA for CS3100 - Design and Implamentation 2
   - I've worked previously as a Deli worked at Handy Pantry Inc.
-  - I've also done landscaping since I was 10.
+  - I've landscaped since I was a kid 😎
 
 ---------------------------------------------------
 
