@@ -5,7 +5,7 @@ Here is some info about me! ⬇️
 <!-- **Ga8ilan/Ga8ilan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
   - Edgar Castaneda
   - Northeastern Univeristy, Boston MA
-  - Major: Computer Science with a concentration is Software
+  - Major: Computer Science | Software Concentration
   - Puro Chapin 🇬🇹
 
 ---------------------------------------------------
