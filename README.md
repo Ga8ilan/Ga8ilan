@@ -1,4 +1,4 @@
-## Hola Hola, bienvenidos a mi Github 👋
+<h2 align="center">Hola Hola, bienvenidos a mi Github 👋</h2>
 
 Here is some info about me! ⬇️
 
