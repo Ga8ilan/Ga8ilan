@@ -45,9 +45,9 @@ Here is some info about me! ⬇️
   <a href="https://www.typescriptlang.org/">
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/>
   </a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+  <!--<a href="https://en.wikipedia.org/wiki/C_(programming_language)">
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="c"/>
-  </a>
+  </a>-->
   <a href="https://www.java.com/en/">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="java"/>
   </a>
@@ -72,18 +72,18 @@ Here is some info about me! ⬇️
   <!--<a href="https://tailwindcss.com/">
     <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind CSS">
   </a>-->
-  <a href="https://developer.android.com/studio?gad_source=1&gad_campaignid=21831783525&gbraid=0AAAAAC-IOZmjMyLtUi-brJuNKwY_hYMsk&gclid=Cj0KCQjwxdXBBhDEARIsAAUkP6iIlJDTh5WnDuxxwNR3Yl1t_zimLhvmb7dOtjrJPuoQcgS-l4-RXCgaAmIAEALw_wcB&gclsrc=aw.ds">
+  <!--<a href="https://developer.android.com/studio?gad_source=1&gad_campaignid=21831783525&gbraid=0AAAAAC-IOZmjMyLtUi-brJuNKwY_hYMsk&gclid=Cj0KCQjwxdXBBhDEARIsAAUkP6iIlJDTh5WnDuxxwNR3Yl1t_zimLhvmb7dOtjrJPuoQcgS-l4-RXCgaAmIAEALw_wcB&gclsrc=aw.ds">
     <img src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white" alt="android studio"/>
-  </a>
+  </a>-->
   <a href="https://nodejs.org/en">
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs"/>
   </a>
-  <a href="https://aws.amazon.com/">
+ <!--<a href="https://aws.amazon.com/">
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws"/>
-  </a>
-  <a href="https://github.com/torvalds/linux">
+  </a>-->
+  <!--<a href="https://github.com/torvalds/linux">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/>
-  </a>
+  </a>-->
 </h4>
 
 ---------------------------------------------------
@@ -97,6 +97,12 @@ Here is some info about me! ⬇️
   - Current Job is a TA for CS3100 - Design and Implamentation 2
   - I've worked previously as a Deli worked at Handy Pantry Inc.
   - I've also done landscaping since I was 10.
+
+---------------------------------------------------
+
+# Contact Me:
+
+
 
 
 
