@@ -15,9 +15,10 @@ Here is some info about me! ⬇️
   - FrontEnd aesthetics built with Tailwind.
 
 ### ZuckBuck
-  - React web application for crypto ZuckBuck purchasing.
+  - React.jsx / Next.js web application for crypto ZuckBuck purchasing.
   - Paused Indefinetly due to school.
   - Contains wallet connections using API integration from Phantom Wallet and Coinbase.
+  - Backend database uses supabase to save wallet info.
   - Worked along side Zack who attends Baruch College in New York.
 
 ### StudiGotchi
