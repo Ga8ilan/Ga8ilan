@@ -11,7 +11,7 @@ Here is some info about me! ⬇️
 
 ### Cleaning website for my mothers small business
   - Created cleaning website for my mothers small business.
-  <!--- - Built with Javascript and css, also using React + Node. --->
+  - Built with Javascript and css, also using React + Node.
   <!--- - FrontEnd aesthetics built with Tailwind. --->
 
 ### ZuckBuck
@@ -19,11 +19,12 @@ Here is some info about me! ⬇️
   <!--- - Paused Indefinetly due to school. --->
   <!--- - Contains wallet connections using API integration from Phantom Wallet and Coinbase. --->
   <!--- - Backend database uses supabase to save wallet info. --->
-  <!--- - Worked along side Zack who attends Baruch College in New York. --->
+  - Worked along side Zack who attends Baruch College in New York.
 
 ### StudiGotchi
   - web application for HackBeanPot!
-  <!--- - Built with React, FastAPI, and Snowflake. --->
+  - Built with React, FastAPI, and Snowflake.
+  - Rogue-like study game.
   <!--- - Back-end includes snowflake cortex LLM (Llama 3.1) to convert PDF text to json readable format for
   developing questions and answers for the game. --->
   <!---  - Front-end build built of straight css (no tailwind | *bad idea* ) --->
@@ -31,7 +32,7 @@ Here is some info about me! ⬇️
 
 ### StetsonSocial
 - Stetson East Hackathon
-<!--- - Built with Next.js, Tailwind, and Firebase. --->
+- Built with Next.js, Tailwind, and Firebase.
 <!--- - built in 3 days with Giovanni Limena, Giovanni Jean, Daniel Nakhooda, and Me. --->
 <!--- - Website that allowed poeple in living spaces at Northeastern to make events in a
   more organized fashion. --->
@@ -89,7 +90,7 @@ Here is some info about me! ⬇️
 ---------------------------------------------------
 ## Current Ideas:
 
-  #### - Possibly build a story game (pixel platformer) with co-programmer Lynette.
+  ##### - Possibly build a story game (pixel platformer) with co-programmer Lynette.
   
 ---------------------------------------------------
 ## My work experiences:
@@ -101,6 +102,8 @@ Here is some info about me! ⬇️
 ---------------------------------------------------
 
 ### Contact Me:
+
+- Will fill this soon! (Working on portfolio / personal website)
 
 
 
