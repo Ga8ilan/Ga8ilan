@@ -40,8 +40,8 @@ Here is some info about me! ⬇️
   more organized fashion. --->
   
 ---------------------------------------------------
-## My Technologies:
-<h4>
+<h2 align="center">My Technologies:</h2>
+<p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript"/> 
   </a>
@@ -87,7 +87,7 @@ Here is some info about me! ⬇️
   <!--<a href="https://github.com/torvalds/linux">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/>
   </a>-->
-</h4>
+</p>
 
 ---------------------------------------------------
 ## Current Ideas:
