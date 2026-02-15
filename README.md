@@ -35,10 +35,9 @@ Here is some info about me! ⬇️
 <!--- - built in 3 days with Giovanni Limena, Giovanni Jean, Daniel Nakhooda, and Me. --->
 <!--- - Website that allowed poeple in living spaces at Northeastern to make events in a
   more organized fashion. --->
-
-### My Technologies:
+  
 ---------------------------------------------------
-
+### My Technologies:
 <h4>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript"/> 
