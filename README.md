@@ -30,13 +30,13 @@ Here is some info about me! ⬇️
 
 ---------------------------------------------------
 
-  # Hiring manager --- if you see this then hello!
+
 
 -------------------------------------------------
 
 ## Current Ideas:
 
-### Possibly build a story game (pixel platdformer) with co-programmer Lynette.
+  #### - Possibly build a story game (pixel platdformer) with co-programmer Lynette.
 
 ## My work experiences:
 
