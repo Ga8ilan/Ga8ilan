@@ -26,7 +26,7 @@ Here is some info about me! ⬇️
   - Built with React, FastAPI, and Snowflake.
   - Back-end includes snowflake cortex LLM (Llama 3.1) to convert PDF text to json readable format for
   developing questions and answers for the game.
-  - Front-end build built of straight css (sorry no tailwind *WAS A BAD IDEA* )
+  - Front-end build built of straight css (no tailwind | *bad idea* )
   Front-end also Tomagotchi sprites for the gameloop.
 
 ---------------------------------------------------
