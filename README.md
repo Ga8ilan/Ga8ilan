@@ -11,7 +11,7 @@ Here is some info about me! ⬇️
 ---------------------------------------------------
 ## What I've worked on:
 
-### Cleaning website for my mothers small business
+### Cleaning business
   - Created cleaning website for my mothers small business.
   - Built with Javascript and css, also using React + Node.
   <!--- - FrontEnd aesthetics built with Tailwind. --->
