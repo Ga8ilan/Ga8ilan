@@ -18,10 +18,10 @@ Here is some info about me! ⬇️
 
 ### ZuckBuck
   - React.jsx / Next.js web application for crypto ZuckBuck purchasing. (paused)
+  - Worked along side Zack who attends Baruch College in New York.
   <!--- - Paused Indefinetly due to school. --->
   <!--- - Contains wallet connections using API integration from Phantom Wallet and Coinbase. --->
   <!--- - Backend database uses supabase to save wallet info. --->
-  - Worked along side Zack who attends Baruch College in New York.
 
 ### StudiGotchi
   - web application for HackBeanPot!
