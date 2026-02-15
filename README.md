@@ -1,12 +1,12 @@
 ## Hi there 👋
 Here is some info about me! ⬇️
+
 <!-- **Ga8ilan/Ga8ilan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+- Edgar Castaneda
+- Northeastern Univeristy, Boston MA
+- Major: Computer Science with a concentration is Software
 
-# Mini Resume:
-  - Edgar Castaneda
-  - Northeastern Univeristy, Boston MA
-  - Major: Computer Science with a concentration is Software
-
+---------------------------------------------------
 ## What I've worked on:
 
 ### Cleaning website for my mothers small business
@@ -37,7 +37,7 @@ Here is some info about me! ⬇️
   more organized fashion. --->
   
 ---------------------------------------------------
-### My Technologies:
+## My Technologies:
 <h4>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript"/> 
@@ -87,11 +87,11 @@ Here is some info about me! ⬇️
 </h4>
 
 ---------------------------------------------------
-
 ## Current Ideas:
 
   #### - Possibly build a story game (pixel platformer) with co-programmer Lynette.
-
+  
+---------------------------------------------------
 ## My work experiences:
 
   - Current Job is a TA for CS3100 - Design and Implamentation 2
@@ -100,7 +100,7 @@ Here is some info about me! ⬇️
 
 ---------------------------------------------------
 
-# Contact Me:
+### Contact Me:
 
 
 
