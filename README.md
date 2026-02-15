@@ -6,6 +6,7 @@ Here is some info about me! ⬇️
   - Edgar Castaneda
   - Northeastern Univeristy, Boston MA
   - Major: Computer Science with a concentration is Software
+  - Puro Chapin 💪🇬🇹
 
 ---------------------------------------------------
 ## What I've worked on:
