@@ -1,10 +1,11 @@
-## Hi there 👋
+## Hola Hola, bienvenidos a mi Github 👋
+
 Here is some info about me! ⬇️
 
 <!-- **Ga8ilan/Ga8ilan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-- Edgar Castaneda
-- Northeastern Univeristy, Boston MA
-- Major: Computer Science with a concentration is Software
+  - Edgar Castaneda
+  - Northeastern Univeristy, Boston MA
+  - Major: Computer Science with a concentration is Software
 
 ---------------------------------------------------
 ## What I've worked on:
@@ -90,7 +91,7 @@ Here is some info about me! ⬇️
 ---------------------------------------------------
 ## Current Ideas:
 
-  ##### - Possibly build a story game (pixel platformer) with co-programmer Lynette.
+  - Possibly build a story game (pixel platformer) with co-programmer Lynette.
   
 ---------------------------------------------------
 ## My work experiences:
@@ -103,7 +104,7 @@ Here is some info about me! ⬇️
 
 ### Contact Me:
 
-- Will fill this soon! (Working on portfolio / personal website)
+  - Will fill this soon! (Working on portfolio / personal website)
 
 
 
