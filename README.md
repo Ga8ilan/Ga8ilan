@@ -2,9 +2,48 @@
 Here is some info about me! ⬇️
 <!-- **Ga8ilan/Ga8ilan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-## Mini Resume:
+# Mini Resume:
 - Edgar Castaneda
 - Northeastern Univeristy
-- Major: Computer Science
+- Major: Computer Science, Concentration is Software
+
+## What I've worked on:
+
+### Cleaning website for my mothers small business
+- Created cleaning website for my mothers small business.
+- Built with Javascript then converted to Typescript for added function.
+- FrontEnd aesthetics built with Tailwind.
+
+### ZuckBuck
+- React web application for crypto ZuckBuck purchasing.
+- Paused Indefinetly due to school.
+- Contains wallet connections using API integration from Phantom Wallet and Coinbase.
+- Worked along side Zack who attends Baruch College in New York.
+
+### StudiGotchi
+- Another web application for HackBeanPot!
+- Built with React, FastAPI, and Snowflake.
+- Back-end includes snowflake cortex LLM (Llama 3.1) to convert PDF text to json readable format for
+  developing questions and answers for the game.
+- Front-end build built of straight css (sorry no tailwind *WAS A BAD IDEA* )
+  Front-end also Tomagotchi sprites for the gameloop.
+
+
+  #### Hiring manager --- if you see this then hello!
+
+  ## Current Ideas:
+
+  ### Possibly build a story game (pixel platdformer) with co-programmer Lynette.
+
+  ## My work experiences:
+
+  - Current Job is a TA for CS3100 - Design and Implamentation 2
+  - I've worked previously as a Deli worked at Handy Pantry Inc.
+  - I've also done landscaping since I was 10.
+
+
+
+
+
 
 
