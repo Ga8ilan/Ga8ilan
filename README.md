@@ -11,7 +11,7 @@ Here is some info about me! ⬇️
 
 ### Cleaning website for my mothers small business
   - Created cleaning website for my mothers small business.
-  - Built with Javascript then converted to Typescript for added function.
+  - Built with Javascript and css, also using React + Node.
   - FrontEnd aesthetics built with Tailwind.
 
 ### ZuckBuck
@@ -28,6 +28,13 @@ Here is some info about me! ⬇️
   developing questions and answers for the game.
   - Front-end build built of straight css (no tailwind | *bad idea* )
   Front-end also Tomagotchi sprites for the gameloop.
+
+### StetsonSocial
+- Stetson East Hackathon
+- Built with Next.js, Tailwind, and Supabase.
+- built in 3 days with Giovanni Limena, Giovanni Jean, Daniel Nakhooda, and Me.
+- Website that allowed poeple in living spaces at Northeastern to make events in a
+  more organized fashion.
 
 ---------------------------------------------------
 
