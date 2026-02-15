@@ -11,30 +11,30 @@ Here is some info about me! ⬇️
 
 ### Cleaning website for my mothers small business
   - Created cleaning website for my mothers small business.
-  - Built with Javascript and css, also using React + Node.
-  - FrontEnd aesthetics built with Tailwind.
+  <!--- - Built with Javascript and css, also using React + Node. --->
+  <!--- - FrontEnd aesthetics built with Tailwind. --->
 
 ### ZuckBuck
-  - React.jsx / Next.js web application for crypto ZuckBuck purchasing.
-  - Paused Indefinetly due to school.
-  - Contains wallet connections using API integration from Phantom Wallet and Coinbase.
-  - Backend database uses supabase to save wallet info.
-  - Worked along side Zack who attends Baruch College in New York.
+  - React.jsx / Next.js web application for crypto ZuckBuck purchasing. (paused)
+  <!--- - Paused Indefinetly due to school. --->
+  <!--- - Contains wallet connections using API integration from Phantom Wallet and Coinbase. --->
+  <!--- - Backend database uses supabase to save wallet info. --->
+  <!--- - Worked along side Zack who attends Baruch College in New York. --->
 
 ### StudiGotchi
-  - Another web application for HackBeanPot!
-  - Built with React, FastAPI, and Snowflake.
-  - Back-end includes snowflake cortex LLM (Llama 3.1) to convert PDF text to json readable format for
-  developing questions and answers for the game.
-  - Front-end build built of straight css (no tailwind | *bad idea* )
-  Front-end also Tomagotchi sprites for the gameloop.
+  - web application for HackBeanPot!
+  <!--- - Built with React, FastAPI, and Snowflake. --->
+  <!--- - Back-end includes snowflake cortex LLM (Llama 3.1) to convert PDF text to json readable format for
+  developing questions and answers for the game. --->
+  <!---  - Front-end build built of straight css (no tailwind | *bad idea* ) --->
+  <!--- Front-end also Tomagotchi sprites for the gameloop. --->
 
 ### StetsonSocial
 - Stetson East Hackathon
-- Built with Next.js, Tailwind, and Firebase.
-- built in 3 days with Giovanni Limena, Giovanni Jean, Daniel Nakhooda, and Me.
-- Website that allowed poeple in living spaces at Northeastern to make events in a
-  more organized fashion.
+<!--- - Built with Next.js, Tailwind, and Firebase. --->
+<!--- - built in 3 days with Giovanni Limena, Giovanni Jean, Daniel Nakhooda, and Me. --->
+<!--- - Website that allowed poeple in living spaces at Northeastern to make events in a
+  more organized fashion. --->
 
 ---------------------------------------------------
 
