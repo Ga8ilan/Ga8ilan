@@ -36,6 +36,7 @@ Here is some info about me! ⬇️
 <!--- - Website that allowed poeple in living spaces at Northeastern to make events in a
   more organized fashion. --->
 
+### My Technologies:
 ---------------------------------------------------
 
 <h4>
