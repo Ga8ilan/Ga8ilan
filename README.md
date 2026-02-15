@@ -24,7 +24,7 @@ Here is some info about me! ⬇️
   <!--- - Backend database uses supabase to save wallet info. --->
 
 ### StudiGotchi
-  - web application for HackBeanPot!
+  - web application for HackBeanPot! (TEAM: Lynette, Edgar, Anjali)
   - Built with React, FastAPI, and Snowflake.
   - Rogue-like study game.
   <!--- - Back-end includes snowflake cortex LLM (Llama 3.1) to convert PDF text to json readable format for
@@ -33,7 +33,7 @@ Here is some info about me! ⬇️
   <!--- Front-end also Tomagotchi sprites for the gameloop. --->
 
 ### StetsonSocial
-- Stetson East Hackathon
+- Stetson East Hackathon: (TEAM: Daniel, Giovanni L, Giovanni J, Edgar)
 - Built with Next.js, Tailwind, and Firebase.
 <!--- - built in 3 days with Giovanni Limena, Giovanni Jean, Daniel Nakhooda, and Me. --->
 <!--- - Website that allowed poeple in living spaces at Northeastern to make events in a
