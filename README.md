@@ -31,7 +31,7 @@ Here is some info about me! ⬇️
 
 ### StetsonSocial
 - Stetson East Hackathon
-- Built with Next.js, Tailwind, and Supabase.
+- Built with Next.js, Tailwind, and Firebase.
 - built in 3 days with Giovanni Limena, Giovanni Jean, Daniel Nakhooda, and Me.
 - Website that allowed poeple in living spaces at Northeastern to make events in a
   more organized fashion.
