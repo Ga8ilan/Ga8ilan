@@ -105,7 +105,8 @@ Here is some info about me! ⬇️
 
 ### Contact Me:
 
-  - Will fill this soon! (Working on portfolio / personal website)
+  - https://www.edgarcastaneda.com/
+  - castaneda.e@northeastern.edu
 
 
 
