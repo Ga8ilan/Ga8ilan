@@ -92,7 +92,8 @@ Here is some info about me! ⬇️
 ---------------------------------------------------
 ## Current Ideas:
 
-  - Possibly build a story game (pixel platformer) with co-programmer Lynette.
+  - Possibly build a story game (pixel platformer) with co-programmer Lynette. (lowkey paused)
+  - Magic the Gathering library
   
 ---------------------------------------------------
 ## My work experiences:
