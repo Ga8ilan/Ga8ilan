@@ -90,18 +90,17 @@ Here is some info about me! ⬇️
 </p>
 
 ---------------------------------------------------
-## Current Ideas:
+## Current Project:
 
-  - Possibly build a story game (pixel platformer) with co-programmer Lynette. (lowkey paused)
   - Magic the Gathering library
   
 ---------------------------------------------------
 ## My work experiences:
 
-  - Current Job is a TA for CS3100 - Design and Implamentation 2
+  - I was a TA for CS3100 - Design and Implamentation 2
   - I've worked previously as a Deli worked at Handy Pantry Inc.
   - I've landscaped since I was a kid 😎
-  - Incoming IT dev @ Coverys
+  - currently an IT dev @ Coverys
 
 ---------------------------------------------------
 
