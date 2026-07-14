@@ -51,6 +51,9 @@ Here is some info about me! ⬇️
   <!--<a href="https://en.wikipedia.org/wiki/C_(programming_language)">
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="c"/>
   </a>-->
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=unity&logoColor=white"/>
+  </a>
   <a href="https://www.java.com/en/">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="java"/>
   </a>
